@@ -1,6 +1,6 @@
 import React from "react";
 import Main from "./components/Main";
-import { BrowserRouter as Router, Link } from "react-router-dom";
+import { HashRouter as Router, Link } from "react-router-dom";
 function App() {
   return (
     <Router className="App">
