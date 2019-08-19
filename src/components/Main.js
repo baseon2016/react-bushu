@@ -9,6 +9,7 @@ class Main extends Component {
       <div>
         <Route path="/" exact component={Home} />
         <Route path="/about" component={About} />
+        <span>gh-pages插件更新本内容</span>
       </div>
     );
   }
